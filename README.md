@@ -16,8 +16,8 @@ Besoin du client
 Description de l’application   
 -	Technos 
 -	Schéma fonctionnels 
-  - Modèle UML
-  - Maquette
+       a) Modèle UML
+       b) Maquette
 
 Calendrier projet
 
